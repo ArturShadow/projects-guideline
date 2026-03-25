@@ -4,7 +4,7 @@ Guía general para estructurar aplicaciones fullstack de forma mantenible, escal
 
 Este repositorio reúne lineamientos para frontend, backend y comunicación entre capas.
 
-READ-ME## 📖 Cómo usar esta guía
+## 📖 Cómo usar esta guía
 
 - Puede aplicarse total o parcialmente según el proyecto
 - No es necesario implementar todo desde el inicio
